@@ -1,0 +1,32 @@
+.background{
+    background-color: #F4F941;
+}
+.color{
+    background-color: grey;
+}
+.jumbotron{
+    height:120px;
+    padding:0;
+    padding-top:15px;
+}
+img{
+    float:right;
+    height:75px;
+}
+.img2{
+    float:left;
+    height:75px;
+}
+a:link, a:visited {
+    background-color: green;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: gold;
+    color:blue;
+  }
