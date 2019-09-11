@@ -38,3 +38,9 @@ a:link, a:visited {
 .container{
     background-color:white;
 }
+
+.carousel {
+    width:640px;
+    height:360px;
+  }
+  
